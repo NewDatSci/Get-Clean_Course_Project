@@ -1,3 +1,4 @@
+library(dplyr)
 
 ## Read in raw training set
 TrainSet <- read.table("./train/x_train.txt")
